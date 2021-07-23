@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rEh7v+p8rmsmy8JYfr2014Liyv/mokQ8DOQFX6p/zuEYZwYHl2Iq9YqtBubcWSpEb0AV9cbbfE+DiCfj5d7CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\LINQ\\LinqLab\\LinqLab\\LinqLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gordn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
